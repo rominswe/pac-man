@@ -126,7 +126,7 @@ def build_svg(cfg):
     svg_parts.append(f'<circle cx="{eye_x:.2f}" cy="{eye_y:.2f}" r="2" fill="#000" />')
     # subtle mouth animation using animateTransform rotation
     svg_parts.append(f'''
-      <animateTransform xlink:href="#pacman" attributeName="transform" type="translate"
+      <animateTransform href="#pacman" attributeName="transform" type="translate"
                         from="0 0" to="0 0" dur="0.0s" repeatCount="1"/>
     ''')
     svg_parts.append('</g>')
