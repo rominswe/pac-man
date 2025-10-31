@@ -10,30 +10,30 @@
 <circle cx="360.0" cy="50.0" r="4" fill="#FFFFFF" fill-opacity="1.00"/>
 </g>
 <g id="ghosts">
-<g transform="translate(240.0,27.7)">
+<g transform="translate(240.0,30.3)">
 <path d="M-10,6 Q-10,-8 0,-12 Q10,-8 10,6 V10 Q5,8 0,10 Q-5,8 -10,10 Z" fill="#FF6666" />
 <circle cx="-4" cy="-4" r="3" fill="#fff"/><circle cx="4" cy="-4" r="3" fill="#fff"/>
 </g>
-<g transform="translate(262.0,37.9)">
+<g transform="translate(262.0,28.1)">
 <path d="M-10,6 Q-10,-8 0,-12 Q10,-8 10,6 V10 Q5,8 0,10 Q-5,8 -10,10 Z" fill="#66CCFF" />
 <circle cx="-4" cy="-4" r="3" fill="#fff"/><circle cx="4" cy="-4" r="3" fill="#fff"/>
 </g>
-<g transform="translate(284.0,29.9)">
+<g transform="translate(284.0,37.9)">
 <path d="M-10,6 Q-10,-8 0,-12 Q10,-8 10,6 V10 Q5,8 0,10 Q-5,8 -10,10 Z" fill="#FFB86B" />
 <circle cx="-4" cy="-4" r="3" fill="#fff"/><circle cx="4" cy="-4" r="3" fill="#fff"/>
 </g>
-<g transform="translate(306.0,28.4)">
+<g transform="translate(306.0,29.5)">
 <path d="M-10,6 Q-10,-8 0,-12 Q10,-8 10,6 V10 Q5,8 0,10 Q-5,8 -10,10 Z" fill="#BDBDFF" />
 <circle cx="-4" cy="-4" r="3" fill="#fff"/><circle cx="4" cy="-4" r="3" fill="#fff"/>
 </g>
 </g>
 <g id="pacman">
-<path d="M 101.36,50.00 L 115.90,43.33 A 16,16 0 0,1 115.90,56.67 Z" fill="#FFDF00" stroke="none" />
-<circle cx="107.36" cy="44.00" r="2" fill="#000" />
+<path d="M 71.84,50.00 L 87.04,45.00 A 16,16 0 0,1 87.04,55.00 Z" fill="#FFDF00" stroke="none" />
+<circle cx="77.84" cy="44.00" r="2" fill="#000" />
 
       <animateTransform href="#pacman" attributeName="transform" type="translate"
                         from="0 0" to="0 0" dur="0.0s" repeatCount="1"/>
     
 </g>
-<text x="10" y="92" fill="#888" font-family="monospace" font-size="10">Updated: 2025-10-31 13:43:33 UTC</text>
+<text x="10" y="92" fill="#888" font-family="monospace" font-size="10">Updated: 2025-10-31 14:01:12 UTC</text>
 </svg>
