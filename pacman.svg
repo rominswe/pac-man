@@ -28,12 +28,12 @@
 </g>
 </g>
 <g id="pacman">
-<path d="M 195.68,50.00 L 211.61,48.53 A 16,16 0 0,1 211.61,51.47 Z" fill="#FFDF00" stroke="none" />
-<circle cx="201.68" cy="44.00" r="2" fill="#000" />
+<path d="M 80.48,50.00 L 95.99,46.07 A 16,16 0 0,1 95.99,53.93 Z" fill="#FFDF00" stroke="none" />
+<circle cx="86.48" cy="44.00" r="2" fill="#000" />
 
       <animateTransform href="#pacman" attributeName="transform" type="translate"
                         from="0 0" to="0 0" dur="0.0s" repeatCount="1"/>
     
 </g>
-<text x="10" y="92" fill="#888" font-family="monospace" font-size="10">Updated: 2025-10-31 20:37:24 UTC</text>
+<text x="10" y="92" fill="#888" font-family="monospace" font-size="10">Updated: 2025-10-31 21:01:24 UTC</text>
 </svg>
